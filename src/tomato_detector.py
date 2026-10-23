@@ -1,4 +1,4 @@
-```python
+
 from pathlib import Path
 
 from ultralytics import YOLO
@@ -61,4 +61,4 @@ class TomatoDetector:
                 })
 
         return detections
-```
+
